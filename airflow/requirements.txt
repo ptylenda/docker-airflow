@@ -1,0 +1,8 @@
+airflow
+airflow[postgres]
+airflow[celery]
+airflow[rabbitmq]
+psycopg2
+celery
+flower
+
